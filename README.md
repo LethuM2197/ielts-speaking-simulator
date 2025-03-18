@@ -1,5 +1,5 @@
 
-Here’s the tailored content based on the style you've provided. You can adapt this for your README file:
+
 
 aiIntegrator
 IELTS Speaking Test Simulator
